@@ -6,4 +6,4 @@
 
 <p>Não me responsabilizo por ban em contas!</p>
 
-<a href="https://www.youtube.com/channel/UCFV2Rp8W8NOMj8oveRT983g">Link</a>
+<h2><a href="https://www.youtube.com/channel/UCFV2Rp8W8NOMj8oveRT983g">Link</a></h2>
